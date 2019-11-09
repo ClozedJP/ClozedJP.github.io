@@ -22035,7 +22035,7 @@ N.os.prototype={
 ao:function(){return new N.L7(new E.q4(),C.l)}}
 N.L7.prototype={
 I:function(a){var u=null,t=X.Qt(u,u,u,"M-NijimiMincho",u)
-return new S.p4(P.aM(["/",new N.L8()],P.i,{func:1,ret:N.ay,args:[N.bX]}),"/",this.d.gz7(),"Boukensha",t,u)},
+return new S.p4(P.aM(["/",new N.L8()],P.i,{func:1,ret:N.ay,args:[N.bX]}),"/",this.d.gz7(),"adventure",t,u)},
 $aU:function(){return[N.os]}}
 N.L8.prototype={
 $1:function(a){return new M.fH(null)},
